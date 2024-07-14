@@ -1,0 +1,160 @@
+{
+  "exercises": [
+     {
+        "name": "deadlift",
+        "image": "deadlift.gif",
+        "description": "Movimiento plano sagital predominante de cadera. Trabajas parte baja de la espalda, isquios, gluteos",
+        "support_link": "https://www.youtube.com/watch?v=1ZXobu7JvvE"
+     },
+     {
+        "name": "back squat",
+        "image": "backsquat.gif",
+        "description": "ejercicio de piernas predominante de rodillas plano sagital",
+        "support_link": "https://www.youtube.com/watch?v=QmZAiBqPvZw"
+     },
+     {
+        "name": "front squat",
+        "image": "frontsquat.gif",
+        "description": "La sentadilla frontal se basa en hacer una air squat  con una barra apoyada sobre los hombros en posicion de front rack.",
+        "support_link": "https://www.youtube.com/watch?v=uYumuL_G_V0"
+     },
+     {
+        "name": "front lunges",
+        "image": "frontlunges.gif",
+        "description": "Es uno de los ejercicios básico de tren inferior más emplead.",
+        "support_link": "https://www.youtube.com/watch?v=f3WLs_HutLw"
+     },
+     {
+        "name": "back lunges",
+        "image": "backlunges.gif",
+        "description": "Es uno de los ejercicios básico de tren inferior más empleado, siguiendo de cerca a la sentadilla. Su objetivo es trabajar toda la musculatura del tren inferior con un gesto similar al de un paso profundo.",
+        "support_link": "https://www.youtube.com/watch?v=ZPoMxOrIeO4"
+     },
+     {
+        "name": "overhead squat",
+        "image": "overheadsquat.gif",
+        "description": "El overhead squat consiste en realizar una sentadilla manteniendo una barra sobre la cabeza (barbell overhead squat).  piernas, glúteos, abdomen, hombros, espalda y brazos",
+        "support_link": "https://www.youtube.com/watch?v=pn8mqlG0nkE"
+     },
+     {
+        "name": "overhead lunges",
+        "image": "overheadlunges.gif",
+        "description": " overhead lunges consiste en realizar un desplante manteniendo una barra sobre la cabeza (barbell overhead lunge). Entre los principales músculos trabajados con overhead lunge se encuentran: cuádriceps, glúteos y femorales, lumbares, abdominales",
+        "support_link": "https://www.youtube.com/watch?v=m6MczOv_Ayg"
+     },
+     {
+        "name": "clean",
+        "image": "clean.gif",
+        "description": "El Clean es un ejercicio olímpico clásico de levantamiento de pesas que consiste en levantar una barra desde el suelo hasta los hombros en dos fases distintas: el primer tirón y el segundo tirón.",
+        "support_link": "https://www.youtube.com/watch?v=Ty14ogq_Vok"
+     },
+     {
+        "name": "power clean",
+        "image": "powerclean.jpg",
+        "description": "Es el nombre que recibe uno de los ejercicios más exigentes del CrossFit  mucho más También se conoce como cargada de potencia. Consiste en levantar una barra con peso (considerable), desde el suelo llevándola a los hombros. En el power clean se implican la mayoría de músculos, tanto tren inferior, core, como tren superior;",
+        "support_link": "https://www.youtube.com/watch?v=KwYJTpQ_x5A"
+     },
+     {
+        "name": "hang squat clean",
+        "image": "hangclean.gif",
+        "description": "ejercicio de levantamiento de pesas que consiste en levantar una barra desde una posición colgante, generalmente a la altura de la mitad del muslo, hasta la posición frontal.",
+        "support_link": "https://www.youtube.com/watch?v=DaKC_BEN5bk"
+     },
+     {
+        "name": "hang power clean",
+        "image": "hangpowerclean.gif",
+        "description": "Ejercicio de levantamiento de pesas que cosiste en iniciar en una posicion colgante para trabajar la parte del segundo tiron en especifico  para llevar una cargada en potencia",
+        "support_link": "https://www.youtube.com/watch?v=0aP3tgKZcHQ"
+     },
+     {
+        "name": "cluster",
+        "image": "cluster.gif",
+        "description": "El cluster es un ejercicio donde se combinan dos movimientos clásicos de las disciplinas de musculación, la cargada o clean y el thruste (una especie de sentadilla con levantamiento de la pesa). Se realiza con una barra de peso e implica enlazar una posición con otra en lugar de ejecutarse por separado.",
+        "support_link": "https://www.youtube.com/watch?v=XmoilY-pc-k"
+     },
+     {
+        "name": "thruster",
+        "image": "thruster.gif",
+        "description": "Se trata de un ejercicio muy completo y exigente que suele practicarse por los aficionados al crossfit . Está compuesto por una sentadilla frontal con un press militar con barra ",
+        "support_link": "https://www.youtube.com/watch?v=L219ltL15zk"
+     },
+     {
+        "name": "snatch",
+        "image": "snatch.gif",
+        "description": "consiste en llevar la barra hasta la parte alta de nuestra cabeza desde el suelo en un solo movimiento continuo.12 jun 2023",
+        "support_link": "https://www.youtube.com/watch?v=GhxhiehJcQY&t=11s"
+     },
+     {
+        "name": "power snatch",
+        "image": "powersnatch.gif",
+        "description": "La Arrancada de fuerza/potencia o Power Snatch en CrossFit consiste en llevar un objeto del suelo a encima de la cabeza. en una fase de velocidad",
+        "support_link": "https://www.youtube.com/watch?v=TL8SMp7RdXQ"
+     },
+     {
+        "name": "hang power snatch",
+        "image": "hangpowersnatch.gif",
+        "description": "La Arrancada de fuerza/potencia flotante  o hang Power Snatch en CrossFit consiste en llevar un objeto del suelo a encima de la cabeza. en una fase de velocidad partiendo desde el segundo tiron",
+        "support_link": "https://www.youtube.com/watch?v=-mLzQdVAwlw"
+     },
+     {
+        "name": "hang squat snatch",
+        "image": "hangsnatch.gif",
+        "description": "Arrancada desde posición colgante en su segundo tiron , es decir desde la arriba de rodillas.",
+        "support_link": "https://www.youtube.com/watch?v=-mLzQdVAwlw&t=4s"
+     },
+     {
+        "name": "push jerk",
+        "image": "pushjerk.gif",
+        "description": "e trata de un movimiento overhead o por encima de la cabeza. Es el último movimiento de la progresión de ejercicios de la que también forman parte el shoulder press y el push press.",
+        "support_link": "https://www.youtube.com/watch?v=VrHNJXoSyXw"
+     },
+     {
+        "name": "push press",
+        "image": "pushpress.gif",
+        "description": "El push press es un ejercicio de levantamiento de peso basado en la fuerza de empuje, ya que principalmente se trata de elevar la carga, generalmente una barra, por encima de la cabeza",
+        "support_link": "https://www.youtube.com/watch?v=iaBVSJm78ko"
+     },
+     {
+        "name": "shoulder press",
+        "image": "shoulderpress.gif",
+        "description": "consiste principalmente en empujar una barra olímpica que se encuentra apoyada sobre los hombros hasta encima de la cabeza.",
+        "support_link": "https://www.youtube.com/watch?v=5yWaNOvgFCM"
+     },
+     {
+        "name": "floor press",
+        "image": "floorpress.gif",
+        "description": " es una variante del press de banca en el que se prescinde del banco y se usa el propio suelo como punto de apoyo",
+        "support_link": "https://www.youtube.com/watch?v=6G-fNatzuSk"
+     },
+     {
+        "name": "bench press",
+        "image": "benchpress.gif",
+        "description": "ejercicio compuesto que entrena los pectorales (músculos del pecho), los tríceps y los deltoides frontales (hombros).",
+        "support_link": "https://www.youtube.com/watch?v=SCVCLChPQFY"
+     },
+     {
+        "name": "split jerk",
+        "image": "split.gif",
+        "description": " movimiento avanzado de levantamiento de pesas que implica propulsar una barra sobre la cabeza con un movimiento rápido de piernas que termina en una posición dividida ",
+        "support_link": "https://www.youtube.com/watch?v=GUDkOtraHHY"
+     },
+     {
+        "name": "sumo deadlift",
+        "image": "sumodeadlift.gif",
+        "description": " es una variante del peso muerto convencional, ambos ejercicios comunes en la práctica del powerlifting y muy beneficiosos para nuestro estado físico. Consiste en levantar una barra desde el suelo y mantenerla a la altura de la cintura.",
+        "support_link": "https://www.youtube.com/watch?v=wQHSYDSgDn8"
+     },
+     {
+        "name": "sumo deadlift high pull",
+        "image": "sdhp.gif",
+        "description": " Peso muerto en posición de sumo elevando la barra hasta la altura de la barbilla con un agarre cerrado.",
+        "support_link": "https://www.youtube.com/watch?v=gh55vVlwlQg"
+     },
+     {
+        "name": "clean and jerk",
+        "image": "cleanandjerk.gif",
+        "description": "ejercicio basado en dos movimientos principales en donde primero se levanta una barra olímpica cargada desde el suelo hasta los hombros y después, se empuja por encima de la cabeza.",
+        "support_link": "https://www.youtube.com/watch?v=LtoksZKesMA"
+     }
+  ]
+}
